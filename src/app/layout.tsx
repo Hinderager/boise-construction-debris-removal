@@ -91,7 +91,7 @@ export default function RootLayout({
     <html lang="en" className={`${montserrat.variable} ${openSans.variable}`}>
       <body className="font-body antialiased">
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-46RY05JDNS"
+          src="https://www.googletagmanager.com/gtag/js?id=G-581QKP6ZE5"
           strategy="afterInteractive"
         />
         <Script id="google-ads" strategy="afterInteractive">
@@ -99,8 +99,8 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-46RY05JDNS');
-            gtag('config', 'AW-11134633087');
+            gtag('config', 'G-581QKP6ZE5');
+            
           `}
         </Script>
         <Script id="meta-pixel" strategy="afterInteractive">
