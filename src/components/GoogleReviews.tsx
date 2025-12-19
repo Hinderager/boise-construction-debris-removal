@@ -11,7 +11,7 @@ const staticReviews = [
     author: 'David K.',
     relative_time: '2 weeks ago',
     rating: 5,
-    text: 'We run a framing crew and call these guys whenever debris piles up on site. They're fast, professional, and the price is always fair. Showed up same day last week when we needed them in a pinch.',
+    text: 'We run a framing crew and call these guys whenever debris piles up on site. They are fast, professional, and the price is always fair. Showed up same day last week when we needed them in a pinch.',
   },
   {
     author: 'Rachel T.',
@@ -41,13 +41,13 @@ const staticReviews = [
     author: 'Jason M.',
     relative_time: '3 months ago',
     rating: 5,
-    text: 'GC in Boise. Been using them for six months now. Always reliable, always on schedule. The guys are careful on residential properties and don't tear up lawns. That matters to my clients.',
+    text: 'GC in Boise. Been using them for six months now. Always reliable, always on schedule. The guys are careful on residential properties and do not tear up lawns. That matters to my clients.',
   },
   {
     author: 'Nicole W.',
     relative_time: '2 months ago',
     rating: 5,
-    text: 'Built a shop in our backyard. Had lumber scraps, packaging, metal cutoffs everywhere. They cleared it all in one trip. Driver was friendly and worked around my dog who wouldn't stop barking.',
+    text: 'Built a shop in our backyard. Had lumber scraps, packaging, metal cutoffs everywhere. They cleared it all in one trip. Driver was friendly and worked around my dog who would not stop barking.',
   },
   {
     author: 'Tyler G.',

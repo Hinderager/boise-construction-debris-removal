@@ -14,17 +14,17 @@ const services = [
   {
     icon: Hammer,
     title: 'Demolition Debris',
-    description: 'Old cabinets, fixtures, flooring, tile-if you tore it out, we'll haul it away. Perfect for remodels and teardowns.',
+    description: 'Old cabinets, fixtures, flooring, tile-if you tore it out, we\'ll haul it away. Perfect for remodels and teardowns.',
   },
   {
     icon: Layers,
     title: 'Heavy Materials',
-    description: 'Concrete, brick, roofing shingles, and other heavy materials. We've got the equipment and crew to handle the tough stuff.',
+    description: 'Concrete, brick, roofing shingles, and other heavy materials. We\'ve got the equipment and crew to handle the tough stuff.',
   },
   {
     icon: Truck,
     title: 'Same-Day Pickup',
-    description: 'Call before noon and we'll usually get there same day. Contractors love us because we work around your schedule.',
+    description: 'Call before noon and we will usually get there same day. Contractors love us because we work around your schedule.',
   },
 ]
 
