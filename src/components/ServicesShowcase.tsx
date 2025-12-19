@@ -11,7 +11,7 @@ const services = [
   },
   {
     title: 'Renovation Debris',
-    description: 'Remodeling projects generate a lot of waste—old cabinets, flooring, drywall, fixtures, and more. We remove renovation debris from kitchens, bathrooms, basements, and whole-home remodels. No need to pile it up and deal with it later. We come when you need us and get it out of your way.',
+    description: 'Remodeling projects generate a lot of waste-old cabinets, flooring, drywall, fixtures, and more. We remove renovation debris from kitchens, bathrooms, basements, and whole-home remodels. No need to pile it up and deal with it later. We come when you need us and get it out of your way.',
     image: '/generated/renovation-cleanup.webp',
     link: 'tel:2083611982',
     buttonText: 'Call Now',
@@ -25,7 +25,7 @@ const services = [
   },
   {
     title: 'Roofing Debris',
-    description: 'Roof replacements create tons of shingles, underlayment, flashing, and nails. We work with roofing contractors to remove old materials quickly and safely. Same-day service available to keep your project moving. We bring the trailer, load it up, and haul it away—simple as that.',
+    description: 'Roof replacements create tons of shingles, underlayment, flashing, and nails. We work with roofing contractors to remove old materials quickly and safely. Same-day service available to keep your project moving. We bring the trailer, load it up, and haul it away-simple as that.',
     image: '/generated/lumber-cleanup.webp',
     link: 'tel:2083611982',
     buttonText: 'Call Now',

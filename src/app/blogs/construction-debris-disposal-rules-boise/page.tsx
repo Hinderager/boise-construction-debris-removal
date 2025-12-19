@@ -111,7 +111,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Hidden Hollow Landfill</h3>
             <p className="text-gray-600 leading-relaxed mb-6">
-              This is the primary disposal facility for construction debris in the Boise area. Located south of Boise near Kuna, Hidden Hollow accepts most C&D materials. They charge by weight, so heavier loads cost more. Call ahead if you're bringing unusual materials—some items require special handling.
+              This is the primary disposal facility for construction debris in the Boise area. Located south of Boise near Kuna, Hidden Hollow accepts most C&D materials. They charge by weight, so heavier loads cost more. Call ahead if you're bringing unusual materials-some items require special handling.
             </p>
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Ada County Landfill</h3>
@@ -154,7 +154,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Paints, solvents, chemicals:</strong> Classified as hazardous waste—separate disposal required</span>
+                <span className="text-blue-100"><strong>Paints, solvents, chemicals:</strong> Classified as hazardous waste-separate disposal required</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -163,7 +163,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </div>
 
             <p className="text-blue-100 leading-relaxed">
-              Mixing hazardous materials with regular construction debris can result in your entire load being rejected—and potentially significant fines.
+              Mixing hazardous materials with regular construction debris can result in your entire load being rejected-and potentially significant fines.
             </p>
           </div>
         </div>
@@ -178,7 +178,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Dumping construction debris on private property, vacant lots, or public land is illegal in Ada County. This seems obvious, but it happens more than you'd think—usually because someone's trying to avoid disposal fees.
+              Dumping construction debris on private property, vacant lots, or public land is illegal in Ada County. This seems obvious, but it happens more than you'd think-usually because someone's trying to avoid disposal fees.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -232,7 +232,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Recycling construction materials isn't just environmentally responsible—it's often cheaper than landfill disposal.
+              Recycling construction materials isn't just environmentally responsible-it's often cheaper than landfill disposal.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -240,7 +240,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Scrap metal:</strong> Any metal components—rebar, copper pipes, steel beams, aluminum—have recycling value. Scrap yards will often pay you for these materials.
+              <strong>Scrap metal:</strong> Any metal components-rebar, copper pipes, steel beams, aluminum-have recycling value. Scrap yards will often pay you for these materials.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -285,7 +285,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
               Need Construction Debris Removed?
             </h2>
             <p className="text-gray-600 mb-8">
-              We handle construction debris removal throughout Boise, Meridian, Nampa, and the Treasure Valley—including proper disposal and compliance with local regulations.
+              We handle construction debris removal throughout Boise, Meridian, Nampa, and the Treasure Valley-including proper disposal and compliance with local regulations.
             </p>
             <a
               href="tel:2083611982"

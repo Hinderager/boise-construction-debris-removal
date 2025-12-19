@@ -48,7 +48,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
               You've got a pile of construction debris that needs to disappear. Should you rent a dumpster or hire a removal service? Both work, but the right choice depends on your specific situation.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              I've seen contractors and homeowners choose wrong in both directions—spending more than necessary or making the project harder than it needed to be.
+              I've seen contractors and homeowners choose wrong in both directions-spending more than necessary or making the project harder than it needed to be.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Here's an honest comparison to help you decide what makes sense for your Boise-area project.
@@ -145,7 +145,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>You have labor available.</strong> If you've got a crew or strong help who can load debris, you're only paying for the container and disposal—not labor.
+              <strong>You have labor available.</strong> If you've got a crew or strong help who can load debris, you're only paying for the container and disposal-not labor.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -153,7 +153,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>You have space for a dumpster.</strong> This seems obvious, but you need a place to put it—driveway, parking lot, or curbside permit.
+              <strong>You have space for a dumpster.</strong> This seems obvious, but you need a place to put it-driveway, parking lot, or curbside permit.
             </p>
           </div>
         </div>
@@ -174,7 +174,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>One-time cleanup.</strong> Project's done, debris is sitting there, you want it gone today—not in a week when the dumpster gets picked up</span>
+                <span className="text-blue-100"><strong>One-time cleanup.</strong> Project's done, debris is sitting there, you want it gone today-not in a week when the dumpster gets picked up</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -210,7 +210,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Rough numbers for comparison—actual quotes will vary based on specifics:
+              Rough numbers for comparison-actual quotes will vary based on specifics:
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -259,7 +259,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Removal Service Extras</h3>
             <p className="text-gray-600 leading-relaxed">
-              Some companies charge extra for heavy items like concrete or for difficult access. We quote everything upfront so you know the full cost before we start—no surprises when we're done.
+              Some companies charge extra for heavy items like concrete or for difficult access. We quote everything upfront so you know the full cost before we start-no surprises when we're done.
             </p>
           </div>
         </div>
@@ -282,7 +282,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              Not sure which fits your Treasure Valley project? Call us. We can give you a removal quote and help you figure out whether a dumpster might actually work better for your specific situation. No pressure either way—we just want you to make the smart call.
+              Not sure which fits your Treasure Valley project? Call us. We can give you a removal quote and help you figure out whether a dumpster might actually work better for your specific situation. No pressure either way-we just want you to make the smart call.
             </p>
           </div>
         </div>

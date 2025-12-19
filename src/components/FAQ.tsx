@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button'
 export const faqs = [
   {
     question: 'What construction debris do you haul?',
-    answer: 'We take drywall, lumber, plywood, roofing shingles, concrete, brick, cabinets, countertops, flooring, tile, fixtures, insulation, siding—basically anything from a construction or demo project. We can\'t handle hazardous stuff like asbestos or lead paint, but everything else is fair game.'
+    answer: 'We take drywall, lumber, plywood, roofing shingles, concrete, brick, cabinets, countertops, flooring, tile, fixtures, insulation, siding-basically anything from a construction or demo project. We can\'t handle hazardous stuff like asbestos or lead paint, but everything else is fair game.'
   },
   {
     question: 'How much does it cost?',
@@ -24,7 +24,7 @@ export const faqs = [
   },
   {
     question: 'Where do you provide service?',
-    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you're outside that area, call us anyway—we might be able to help. (208) 505-9352.'
+    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you're outside that area, call us anyway-we might be able to help. (208) 505-9352.'
   },
   {
     question: 'What about recycling?',

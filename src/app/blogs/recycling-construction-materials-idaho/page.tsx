@@ -79,7 +79,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Requirements:</strong> Must be clean—no rebar sticking out (or rebar must be minimal), no attached wood, no significant contamination with other materials.
+              <strong>Requirements:</strong> Must be clean-no rebar sticking out (or rebar must be minimal), no attached wood, no significant contamination with other materials.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -276,7 +276,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              The biggest barrier is usually logistics—separating materials on-site and getting them to the right facilities. If you're working with a debris removal service, ask about their recycling practices. Some sort materials and recycle what they can. Others take everything to the landfill.
+              The biggest barrier is usually logistics-separating materials on-site and getting them to the right facilities. If you're working with a debris removal service, ask about their recycling practices. Some sort materials and recycle what they can. Others take everything to the landfill.
             </p>
 
             <p className="text-gray-600 leading-relaxed">

@@ -45,13 +45,13 @@ export default function KeepingJobSitesClean() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              Walk onto some construction sites and you can barely find a clear path through the debris. Walk onto others and you wonder how anything's getting built—it's too clean.
+              Walk onto some construction sites and you can barely find a clear path through the debris. Walk onto others and you wonder how anything's getting built-it's too clean.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
               The messy site isn't a sign of hard work. It's usually a sign of poor management, safety risks, and hidden costs that eat into project margins.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              Here's why job site cleanliness matters more than most Boise contractors realize—and how to get it right without slowing down production.
+              Here's why job site cleanliness matters more than most Boise contractors realize-and how to get it right without slowing down production.
             </p>
           </div>
         </div>
@@ -75,11 +75,11 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Loose lumber, scattered nails, piles of drywall scraps—these aren't just eyesores. They're hazards. A worker steps on a board with a nail sticking up, and suddenly you're dealing with a workers' comp claim, lost productivity, and potentially an OSHA inspection.
+              Loose lumber, scattered nails, piles of drywall scraps-these aren't just eyesores. They're hazards. A worker steps on a board with a nail sticking up, and suddenly you're dealing with a workers' comp claim, lost productivity, and potentially an OSHA inspection.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Fire risk is another factor. Accumulated wood scraps, paper, and packaging create fuel for fires. In dry Treasure Valley summers, this isn't theoretical—it's a real concern.
+              Fire risk is another factor. Accumulated wood scraps, paper, and packaging create fuel for fires. In dry Treasure Valley summers, this isn't theoretical-it's a real concern.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -114,7 +114,7 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Inspections take longer.</strong> When an inspector has to pick their way through debris to check your work, they're not in a good mood. And they might miss something that passes on a clean site—or find problems they wouldn't otherwise notice.
+              <strong>Inspections take longer.</strong> When an inspector has to pick their way through debris to check your work, they're not in a good mood. And they might miss something that passes on a clean site-or find problems they wouldn't otherwise notice.
             </p>
           </div>
         </div>
@@ -129,7 +129,7 @@ export default function KeepingJobSitesClean() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Your clients aren't construction professionals. They don't know what's normal on a job site. What they see is mess—or cleanliness.
+              Your clients aren't construction professionals. They don't know what's normal on a job site. What they see is mess-or cleanliness.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -162,7 +162,7 @@ export default function KeepingJobSitesClean() {
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>End-of-day cleanup.</strong> Build 15-30 minutes of cleanup into every day's schedule. It's not extra time—it's productive time that makes the next day start faster</span>
+                <span className="text-blue-100"><strong>End-of-day cleanup.</strong> Build 15-30 minutes of cleanup into every day's schedule. It's not extra time-it's productive time that makes the next day start faster</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -229,7 +229,7 @@ export default function KeepingJobSitesClean() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Clean job sites aren't about being neat for neatness's sake. They're about safety, efficiency, and professionalism—all things that affect your bottom line.
+              Clean job sites aren't about being neat for neatness's sake. They're about safety, efficiency, and professionalism-all things that affect your bottom line.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -237,7 +237,7 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              If keeping sites clean is a struggle, it might be time to look at your debris removal process. Sometimes the issue isn't discipline—it's logistics. Having a reliable removal partner on call makes the whole thing easier.
+              If keeping sites clean is a struggle, it might be time to look at your debris removal process. Sometimes the issue isn't discipline-it's logistics. Having a reliable removal partner on call makes the whole thing easier.
             </p>
           </div>
         </div>

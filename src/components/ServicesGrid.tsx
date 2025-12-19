@@ -14,7 +14,7 @@ const services = [
   {
     icon: Hammer,
     title: 'Demolition Debris',
-    description: 'Old cabinets, fixtures, flooring, tile—if you tore it out, we'll haul it away. Perfect for remodels and teardowns.',
+    description: 'Old cabinets, fixtures, flooring, tile-if you tore it out, we'll haul it away. Perfect for remodels and teardowns.',
   },
   {
     icon: Layers,

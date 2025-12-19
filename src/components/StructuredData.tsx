@@ -11,7 +11,7 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 const faqData = [
   {
     question: 'What construction debris do you haul in Boise?',
-    answer: 'We take drywall, lumber, plywood, roofing shingles, concrete, brick, cabinets, countertops, flooring, tile, fixtures, insulation, siding—basically anything from a construction or demo project. We can\'t handle hazardous materials like asbestos or lead paint, but everything else is fair game.',
+    answer: 'We take drywall, lumber, plywood, roofing shingles, concrete, brick, cabinets, countertops, flooring, tile, fixtures, insulation, siding-basically anything from a construction or demo project. We can\'t handle hazardous materials like asbestos or lead paint, but everything else is fair game.',
   },
   {
     question: 'How much does construction debris removal cost in Boise?',
@@ -27,7 +27,7 @@ const faqData = [
   },
   {
     question: 'What areas do you serve for construction debris removal?',
-    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you\'re outside that area, call us anyway—we might be able to help at (208) 505-9352.',
+    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you\'re outside that area, call us anyway-we might be able to help at (208) 505-9352.',
   },
   {
     question: 'Do you recycle construction materials in Idaho?',

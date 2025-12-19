@@ -71,7 +71,7 @@ export default function TypesOfConstructionDebris() {
             </div>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              These are the heavy hitters—literally. Concrete is one of the heaviest construction materials, which affects both how it's handled and what it costs to remove.
+              These are the heavy hitters-literally. Concrete is one of the heaviest construction materials, which affects both how it's handled and what it costs to remove.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -145,7 +145,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Weight vs. volume:</strong> Drywall is moderately heavy—heavier than wood but lighter than masonry. It's also fragile and breaks into pieces that don't stack efficiently.
+              <strong>Weight vs. volume:</strong> Drywall is moderately heavy-heavier than wood but lighter than masonry. It's also fragile and breaks into pieces that don't stack efficiently.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -178,7 +178,7 @@ export default function TypesOfConstructionDebris() {
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Metal roofing:</strong> Recyclable as scrap metal—this actually has value</span>
+                <span className="text-blue-100"><strong>Metal roofing:</strong> Recyclable as scrap metal-this actually has value</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -186,7 +186,7 @@ export default function TypesOfConstructionDebris() {
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Old roof debris:</strong> May contain asbestos if from certain eras—verify before disturbing</span>
+                <span className="text-blue-100"><strong>Old roof debris:</strong> May contain asbestos if from certain eras-verify before disturbing</span>
               </div>
             </div>
 
@@ -206,7 +206,7 @@ export default function TypesOfConstructionDebris() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Metal is the one category where recycling isn't just cheaper—it can actually put money in your pocket.
+              Metal is the one category where recycling isn't just cheaper-it can actually put money in your pocket.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -245,7 +245,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Vinyl and linoleum:</strong> Goes to landfill. Old vinyl (pre-1980s) may contain asbestos—get it tested if unsure.
+              <strong>Vinyl and linoleum:</strong> Goes to landfill. Old vinyl (pre-1980s) may contain asbestos-get it tested if unsure.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -311,7 +311,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              When you call for a removal estimate, tell us what materials you're dealing with. The more specific you can be, the more accurate our quote will be. And if you're not sure what you have—especially in older Boise homes—we can help you figure it out.
+              When you call for a removal estimate, tell us what materials you're dealing with. The more specific you can be, the more accurate our quote will be. And if you're not sure what you have-especially in older Boise homes-we can help you figure it out.
             </p>
           </div>
         </div>
