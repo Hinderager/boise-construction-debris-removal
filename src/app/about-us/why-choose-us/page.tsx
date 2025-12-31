@@ -27,27 +27,27 @@ export default function WhyChooseUsPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <Clock className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-xl font-bold text-dark-blue mb-3">We Actually Show Up</h3>
-                <p className="text-gray-600">When we say we'll be there Tuesday at 9am, we'll be there Tuesday at 9am. No ghosting, no last-minute cancellations. Your time matters.</p>
+                <p className="text-gray-600">When we say we\'ll be there Tuesday at 9am, we\'ll be there Tuesday at 9am. No ghosting, no last-minute cancellations. Your time matters.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <DollarSign className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-xl font-bold text-dark-blue mb-3">Transparent Pricing</h3>
-                <p className="text-gray-600">We give you a clear price upfront. No surprise fees, no bait-and-switch. You know what you're paying before we start.</p>
+                <p className="text-gray-600">We give you a clear price upfront. No surprise fees, no bait-and-switch. You know what you\'re paying before we start.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <Recycle className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-xl font-bold text-dark-blue mb-3">Eco-Friendly Disposal</h3>
-                <p className="text-gray-600">We recycle metal, donate usable materials, and dispose of everything else properly. We're not just dumping your stuff in a field somewhere.</p>
+                <p className="text-gray-600">We recycle metal, donate usable materials, and dispose of everything else properly. We\'re not just dumping your stuff in a field somewhere.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <Shield className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-xl font-bold text-dark-blue mb-3">Licensed & Insured</h3>
-                <p className="text-gray-600">We're a legitimate business with proper licenses and insurance. That protects both of us.</p>
+                <p className="text-gray-600">We\'re a legitimate business with proper licenses and insurance. That protects both of us.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <Users className="w-12 h-12 text-[#FFC845] mb-4" />
                 <h3 className="text-xl font-bold text-dark-blue mb-3">Local Team</h3>
-                <p className="text-gray-600">We live here in the Treasure Valley. This isn't some national franchise - we're your neighbors.</p>
+                <p className="text-gray-600">We live here in the Treasure Valley. This isn't some national franchise - we\'re your neighbors.</p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <Truck className="w-12 h-12 text-[#FFC845] mb-4" />
@@ -90,14 +90,14 @@ export default function WhyChooseUsPage() {
 
             <div className="bg-blue-50 border-l-4 border-dark-blue p-6 mb-12">
               <h3 className="text-lg font-bold text-dark-blue mb-2">The Bottom Line</h3>
-              <p className="text-gray-600">We're not the cheapest option out there, and we're not trying to be. We charge fair prices for reliable, professional service. If you want someone who shows up, does the job right, and doesn't cut corners, that's us.</p>
+              <p className="text-gray-600">We\'re not the cheapest option out there, and we\'re not trying to be. We charge fair prices for reliable, professional service. If you want someone who shows up, does the job right, and doesn\'t cut corners, that\'s us.</p>
             </div>
 
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Ready to Work With Us?</h3>
               <p className="text-gray-300 mb-6">Call for a straight answer and honest quote.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

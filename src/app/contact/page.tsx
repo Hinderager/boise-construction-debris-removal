@@ -3,7 +3,7 @@ import { Phone, Clock, MapPin } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Contact Us | Boise Construction Debris Removal',
-  description: 'Contact Top Shelf Debris Removal for construction debris removal in the Treasure Valley. Call (208) 505-9352 for fast service.',
+  description: 'Contact Top Shelf Debris Removal for construction debris removal in the Treasure Valley. Call (208) 943-5231 for fast service.',
   alternates: { canonical: 'https://boise-construction-debris-removal.com/contact' },
 }
 
@@ -13,7 +13,7 @@ export default function ContactPage() {
       <section className="py-16 bg-gradient-to-b from-dark-blue to-[#1a5a9e]">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Contact Us</h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">Ready to schedule debris removal? We're here to help.</p>
+          <p className="text-xl text-gray-200 max-w-3xl mx-auto">Ready to schedule debris removal? We\'re here to help.</p>
         </div>
       </section>
       <section className="py-16 bg-white">
@@ -25,7 +25,7 @@ export default function ContactPage() {
                   <Phone className="w-8 h-8 text-dark-blue flex-shrink-0" />
                   <div>
                     <h3 className="font-bold text-dark-blue">Phone</h3>
-                    <a href="tel:2085059352" className="text-lg text-gray-600 hover:text-[#0b7fb6]">(208) 505-9352</a>
+                    <a href="tel:2089435231" className="text-lg text-gray-600 hover:text-[#0b7fb6]">(208) 943-5231</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -48,9 +48,9 @@ export default function ContactPage() {
               </div>
               <div className="bg-dark-blue p-8 rounded-xl text-center">
                 <h3 className="text-2xl font-bold text-white mb-4">Call Now</h3>
-                <p className="text-gray-300 mb-6">Talk to a real person. We're here to help.</p>
-                <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-xl hover:bg-yellow-400 transition-colors">
-                  <Phone className="w-6 h-6" />(208) 505-9352
+                <p className="text-gray-300 mb-6">Talk to a real person. We\'re here to help.</p>
+                <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-xl hover:bg-yellow-400 transition-colors">
+                  <Phone className="w-6 h-6" />(208) 943-5231
                 </a>
               </div>
             </div>

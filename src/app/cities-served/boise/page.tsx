@@ -5,7 +5,7 @@ import { Phone, MapPin, CheckCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Construction Debris Removal Boise ID | Top Shelf',
-  description: 'Professional construction debris removal in Boise, Idaho. Residential and commercial cleanup. Same-day service available. Call (208) 505-9352.',
+  description: 'Professional construction debris removal in Boise, Idaho. Residential and commercial cleanup. Same-day service available. Call (208) 943-5231.',
   keywords: ['debris removal Boise', 'construction cleanup Boise', 'demolition debris Boise'],
   alternates: {
     canonical: 'https://boise-construction-debris-removal.com/cities-served/boise',
@@ -34,8 +34,8 @@ export default function BoisePage() {
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Construction Debris Removal in Boise</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Fast, reliable construction debris removal for Boise contractors and homeowners. Same-day service available.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>
@@ -45,8 +45,8 @@ export default function BoisePage() {
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Debris Removal Services in Boise</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
-              <p>Top Shelf Debris Removal provides professional construction cleanup throughout Boise. Whether you're a contractor working on a commercial build or a homeowner tackling a remodel, we handle the debris so you can focus on the project.</p>
-              <p>We serve all of Boise with same-day service when available. Call us and we'll give you a straight quote over the phone.</p>
+              <p>Top Shelf Debris Removal provides professional construction cleanup throughout Boise. Whether you\'re a contractor working on a commercial build or a homeowner tackling a remodel, we handle the debris so you can focus on the project.</p>
+              <p>We serve all of Boise with same-day service when available. Call us and we\'ll give you a straight quote over the phone.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Our Boise Services</h3>
@@ -66,8 +66,8 @@ export default function BoisePage() {
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Need Debris Removal in Boise?</h3>
               <p className="text-gray-300 mb-6">Call now for fast, professional service.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

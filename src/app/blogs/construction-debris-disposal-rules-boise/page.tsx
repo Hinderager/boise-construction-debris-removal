@@ -45,10 +45,10 @@ export default function ConstructionDebrisDisposalRulesBoise() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              Whether you're a contractor finishing a remodel or a homeowner tackling a DIY project, you can't just dump construction debris anywhere. Ada County and Boise have specific rules about what goes where.
+              Whether you\'re a contractor finishing a remodel or a homeowner tackling a DIY project, you can\'t just dump construction debris anywhere. Ada County and Boise have specific rules about what goes where.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              Ignoring these rules can result in fines, project delays, and headaches you don't need. The good news? The rules are straightforward once you understand them.
+              Ignoring these rules can result in fines, project delays, and headaches you don\'t need. The good news? The rules are straightforward once you understand them.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Here's what you need to know about construction debris disposal in the Treasure Valley.
@@ -111,7 +111,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Hidden Hollow Landfill</h3>
             <p className="text-gray-600 leading-relaxed mb-6">
-              This is the primary disposal facility for construction debris in the Boise area. Located south of Boise near Kuna, Hidden Hollow accepts most C&D materials. They charge by weight, so heavier loads cost more. Call ahead if you're bringing unusual materials-some items require special handling.
+              This is the primary disposal facility for construction debris in the Boise area. Located south of Boise near Kuna, Hidden Hollow accepts most C&D materials. They charge by weight, so heavier loads cost more. Call ahead if you\'re bringing unusual materials-some items require special handling.
             </p>
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Ada County Landfill</h3>
@@ -121,7 +121,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Recycling Facilities</h3>
             <p className="text-gray-600 leading-relaxed">
-              Clean concrete, metals, and some other materials can go to recycling facilities instead of landfills. This is often cheaper and better for the environment. We'll cover recycling options in more detail below.
+              Clean concrete, metals, and some other materials can go to recycling facilities instead of landfills. This is often cheaper and better for the environment. We\'ll cover recycling options in more detail below.
             </p>
           </div>
         </div>
@@ -186,7 +186,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              The disposal fees you're trying to avoid are almost always cheaper than the penalties you'll face if caught. And with more surveillance and stricter enforcement, getting caught is increasingly likely.
+              The disposal fees you\'re trying to avoid are almost always cheaper than the penalties you'll face if caught. And with more surveillance and stricter enforcement, getting caught is increasingly likely.
             </p>
           </div>
         </div>
@@ -201,7 +201,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              If you're a contractor working in Boise, Meridian, or elsewhere in the Treasure Valley, you have additional responsibilities beyond basic disposal rules.
+              If you\'re a contractor working in Boise, Meridian, or elsewhere in the Treasure Valley, you have additional responsibilities beyond basic disposal rules.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -209,7 +209,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Don't let debris accumulate.</strong> Some municipalities require regular debris removal during extended projects. Check local ordinances for specific timelines.
+              <strong>Don\'t let debris accumulate.</strong> Some municipalities require regular debris removal during extended projects. Check local ordinances for specific timelines.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -232,7 +232,7 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Recycling construction materials isn't just environmentally responsible-it's often cheaper than landfill disposal.
+              Recycling construction materials isn't just environmentally responsible-it\'s often cheaper than landfill disposal.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -263,11 +263,11 @@ export default function ConstructionDebrisDisposalRulesBoise() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Construction debris disposal in Ada County is straightforward if you follow the rules. Use approved facilities, keep hazardous materials separate, and don't try to cut corners with illegal dumping.
+              Construction debris disposal in Ada County is straightforward if you follow the rules. Use approved facilities, keep hazardous materials separate, and don\'t try to cut corners with illegal dumping.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              If the logistics of sorting, hauling, and disposing of construction debris properly seem overwhelming, that's where professional removal services come in. We handle the compliance headaches so you can focus on the actual project.
+              If the logistics of sorting, hauling, and disposing of construction debris properly seem overwhelming, that\'s where professional removal services come in. We handle the compliance headaches so you can focus on the actual project.
             </p>
 
             <p className="text-gray-600 leading-relaxed">

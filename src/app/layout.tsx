@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     default: 'Construction Debris Removal Boise | Job Site Cleanup Idaho',
     template: '%s | Construction Debris Removal Boise',
   },
-  description: 'Professional construction debris removal in Boise, Idaho. Job site cleanup, renovation debris, and recycling services. Same-day service available. Call (208) 505-9352 for a free quote.',
+  description: 'Professional construction debris removal in Boise, Idaho. Job site cleanup, renovation debris, and recycling services. Same-day service available. Call (208) 943-5231 for a free quote.',
   keywords: [
     'construction debris removal Boise',
     'job site cleanup Idaho',
@@ -132,6 +132,10 @@ export default function RootLayout({
           <Footer />
         </QuoteFormProvider>
         <StructuredData />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <link rel="dns-prefetch" href="https://connect.facebook.net" />
+        <link rel="dns-prefetch" href="https://www.google.com" />
       </body>
     </html>
   )

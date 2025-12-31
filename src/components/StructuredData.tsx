@@ -27,7 +27,7 @@ const faqData = [
   },
   {
     question: 'What areas do you serve for construction debris removal?',
-    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you\'re outside that area, call us anyway-we might be able to help at (208) 505-9352.',
+    answer: 'We cover Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, and the rest of the Treasure Valley. If you\'re outside that area, call us anyway-we might be able to help at (208) 943-5231.',
   },
   {
     question: 'Do you recycle construction materials in Idaho?',
@@ -52,8 +52,8 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "name": `Boise Construction Debris Removal - ${city}`,
     "description": `Professional construction debris removal in ${city}, Idaho. Job site cleanup, demolition debris, and recycling services. Same-day service available for contractors and homeowners.`,
     "url": "https://boise-construction-debris-removal.com",
-    "telephone": "+1-208-505-9352",
-    "email": "info@boise-construction-debris-removal.com",
+    "telephone": "+1-208-943-5231",
+    "email": "info@topshelfpros.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": city,

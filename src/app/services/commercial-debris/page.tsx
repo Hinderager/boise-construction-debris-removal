@@ -4,7 +4,7 @@ import { Phone, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Commercial Debris Removal | Boise Construction Debris Removal',
-  description: 'Commercial construction debris removal in Boise. Job site cleanup for contractors and commercial projects. Call (208) 505-9352.',
+  description: 'Commercial construction debris removal in Boise. Job site cleanup for contractors and commercial projects. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-construction-debris-removal.com/services/commercial-debris' },
 }
 
@@ -21,8 +21,8 @@ export default function CommercialDebrisPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Commercial Debris Removal</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional job site cleanup for commercial construction projects.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>
@@ -51,8 +51,8 @@ export default function CommercialDebrisPage() {
       <section className="py-12 bg-dark-blue text-center">
         <div className="container mx-auto px-4">
           <h2 className="text-2xl font-bold text-white mb-4">Need Commercial Debris Removal?</h2>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>

@@ -4,7 +4,7 @@ import { Phone, CheckCircle, MapPin } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'New Construction Cleanup Meridian ID | Top Shelf Debris Removal',
-  description: 'Professional job site cleanup for new construction projects in Meridian, Idaho. Licensed and insured. Call (208) 505-9352 for fast service.',
+  description: 'Professional job site cleanup for new construction projects in Meridian, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['new construction Meridian', 'debris removal Meridian', 'construction cleanup Meridian'],
   alternates: {
     canonical: 'https://boise-construction-debris-removal.com/cities-served/meridian/new-construction',
@@ -22,8 +22,8 @@ export default function MeridianNewConstructionCleanupPage() {
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">New Construction Cleanup in Meridian</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional job site cleanup for new construction projects serving Meridian and surrounding areas.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>
@@ -33,7 +33,7 @@ export default function MeridianNewConstructionCleanupPage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Top Shelf Debris Removal provides job site cleanup for new construction projects throughout Meridian. We handle the heavy lifting and proper disposal so you can focus on your project.</p>
-              <p>Whether it's a small residential job or a large commercial project, we've got the equipment and experience to handle it efficiently.</p>
+              <p>Whether it\'s a small residential job or a large commercial project, we've got the equipment and experience to handle it efficiently.</p>
             </div>
 
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Why Choose Us in Meridian</h2>
@@ -63,8 +63,8 @@ export default function MeridianNewConstructionCleanupPage() {
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Ready to Schedule Service in Meridian?</h3>
               <p className="text-gray-300 mb-6">Call now for a free quote and fast service.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

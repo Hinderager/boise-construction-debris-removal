@@ -35,7 +35,7 @@ export default function CitiesServedPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>We provide construction debris removal services across the entire Treasure Valley. Whether you're in downtown Boise or out in Middleton, we've got you covered.</p>
+              <p>We provide construction debris removal services across the entire Treasure Valley. Whether you\'re in downtown Boise or out in Middleton, we've got you covered.</p>
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
@@ -56,7 +56,7 @@ export default function CitiesServedPage() {
             </div>
 
             <div className="bg-blue-50 border-l-4 border-dark-blue p-6">
-              <h3 className="text-lg font-bold text-dark-blue mb-2">Don't See Your City?</h3>
+              <h3 className="text-lg font-bold text-dark-blue mb-2">Don\'t See Your City?</h3>
               <p className="text-gray-600">We serve many other areas throughout the Treasure Valley. Give us a call to check if we cover your location.</p>
             </div>
           </div>
@@ -67,8 +67,8 @@ export default function CitiesServedPage() {
         <div className="container mx-auto px-4">
           <h2 className="text-2xl font-bold text-white mb-4">Serving the Treasure Valley</h2>
           <p className="text-gray-300 mb-6">Call for debris removal in your area.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 943-5231
           </a>
         </div>
       </section>

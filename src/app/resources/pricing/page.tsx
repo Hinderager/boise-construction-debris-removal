@@ -39,7 +39,7 @@ export default function PricingPage() {
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-bold text-dark-blue mb-3">Location</h3>
-                <p className="text-gray-600">If you're way out in the boonies, there might be a small travel charge. Most of the Treasure Valley is within our normal service area with no extra fee.</p>
+                <p className="text-gray-600">If you\'re way out in the boonies, there might be a small travel charge. Most of the Treasure Valley is within our normal service area with no extra fee.</p>
               </div>
             </div>
 
@@ -49,7 +49,7 @@ export default function PricingPage() {
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
                 <div>
                   <strong className="text-dark-blue">Small Jobs:</strong>
-                  <span className="text-gray-600"> For smaller loads, we can usually quote you over the phone. Just describe what you have and we'll give you a price.</span>
+                  <span className="text-gray-600"> For smaller loads, we can usually quote you over the phone. Just describe what you have and we\'ll give you a price.</span>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -63,7 +63,7 @@ export default function PricingPage() {
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
                 <div>
                   <strong className="text-dark-blue">Ongoing Service:</strong>
-                  <span className="text-gray-600"> If you're a contractor who needs regular pickups, we can work out a per-load rate or monthly arrangement.</span>
+                  <span className="text-gray-600"> If you\'re a contractor who needs regular pickups, we can work out a per-load rate or monthly arrangement.</span>
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@ export default function PricingPage() {
                 <AlertTriangle className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
                 <div>
                   <h3 className="text-lg font-bold text-dark-blue mb-2">No Hidden Fees</h3>
-                  <p className="text-gray-600">The price we quote is the price you pay. We don't add on surprise charges after the fact. If the job ends up being bigger than expected, we'll let you know before proceeding.</p>
+                  <p className="text-gray-600">The price we quote is the price you pay. We don\'t add on surprise charges after the fact. If the job ends up being bigger than expected, we\'ll let you know before proceeding.</p>
                 </div>
               </div>
             </div>
@@ -90,9 +90,9 @@ export default function PricingPage() {
 
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Get Your Free Quote</h3>
-              <p className="text-gray-300 mb-6">Call now and we'll give you a straight answer on pricing.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <p className="text-gray-300 mb-6">Call now and we\'ll give you a straight answer on pricing.</p>
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

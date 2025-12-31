@@ -3,7 +3,7 @@ import { Phone, CheckCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'DIY Project Cleanup | Boise Construction Debris Removal',
-  description: 'Professional cleanup for your DIY home improvement projects in Boise and the Treasure Valley. Licensed, insured, and reliable. Call (208) 505-9352.',
+  description: 'Professional cleanup for your DIY home improvement projects in Boise and the Treasure Valley. Licensed, insured, and reliable. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-construction-debris-removal.com/services/residential-debris/diy-project-cleanup' },
 }
 
@@ -41,15 +41,15 @@ export default function DiyProjectCleanupPage() {
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700">Clean up the area when we're done</span>
+                <span className="text-gray-700">Clean up the area when we\'re done</span>
               </li>
             </ul>
 
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Schedule Residential Debris Removal</h3>
               <p className="text-gray-300 mb-6">Call for a free quote and fast service.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>
           </div>

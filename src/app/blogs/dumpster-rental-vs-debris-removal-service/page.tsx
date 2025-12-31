@@ -48,7 +48,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
               You've got a pile of construction debris that needs to disappear. Should you rent a dumpster or hire a removal service? Both work, but the right choice depends on your specific situation.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              I've seen contractors and homeowners choose wrong in both directions-spending more than necessary or making the project harder than it needed to be.
+              I\'ve seen contractors and homeowners choose wrong in both directions-spending more than necessary or making the project harder than it needed to be.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Here's an honest comparison to help you decide what makes sense for your Boise-area project.
@@ -71,7 +71,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </div>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              With dumpster rental, a company drops a container at your site. You fill it over days or weeks. When you're done, they pick it up and haul it away.
+              With dumpster rental, a company drops a container at your site. You fill it over days or weeks. When you\'re done, they pick it up and haul it away.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -137,7 +137,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Extended projects.</strong> If your renovation is happening over weeks, having a dumpster on-site lets you toss debris as you go. You're not waiting for pickup appointments or letting debris pile up.
+              <strong>Extended projects.</strong> If your renovation is happening over weeks, having a dumpster on-site lets you toss debris as you go. You\'re not waiting for pickup appointments or letting debris pile up.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -145,7 +145,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>You have labor available.</strong> If you've got a crew or strong help who can load debris, you're only paying for the container and disposal-not labor.
+              <strong>You have labor available.</strong> If you\'ve got a crew or strong help who can load debris, you\'re only paying for the container and disposal-not labor.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -182,11 +182,11 @@ export default function DumpsterRentalVsDebrisRemovalService() {
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>No labor for loading.</strong> If it's just you and you don't want to spend hours throwing debris into a container, we handle the physical work</span>
+                <span className="text-blue-100"><strong>No labor for loading.</strong> If it\'s just you and you don\'t want to spend hours throwing debris into a container, we handle the physical work</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Smaller amounts.</strong> A quarter-truckload of debris doesn't justify a full dumpster rental with delivery and pickup fees</span>
+                <span className="text-blue-100"><strong>Smaller amounts.</strong> A quarter-truckload of debris doesn\'t justify a full dumpster rental with delivery and pickup fees</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -230,7 +230,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Here's the math that matters: if you'd need to load a 20-yard dumpster yourself and it takes you 4 hours, what's your time worth? If your rate is $50/hour, that's $200 in labor value. Add that to the dumpster rental and compare to a removal service that handles everything.
+              Here's the math that matters: if you'd need to load a 20-yard dumpster yourself and it takes you 4 hours, what's your time worth? If your rate is $50/hour, that\'s $200 in labor value. Add that to the dumpster rental and compare to a removal service that handles everything.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -259,7 +259,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Removal Service Extras</h3>
             <p className="text-gray-600 leading-relaxed">
-              Some companies charge extra for heavy items like concrete or for difficult access. We quote everything upfront so you know the full cost before we start-no surprises when we're done.
+              Some companies charge extra for heavy items like concrete or for difficult access. We quote everything upfront so you know the full cost before we start-no surprises when we\'re done.
             </p>
           </div>
         </div>
@@ -296,7 +296,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
               Get a Free Debris Removal Quote
             </h2>
             <p className="text-gray-600 mb-8">
-              We'll give you an upfront price and help you decide if removal service or dumpster rental makes more sense for your project.
+              We\'ll give you an upfront price and help you decide if removal service or dumpster rental makes more sense for your project.
             </p>
             <a
               href="tel:2083611982"
