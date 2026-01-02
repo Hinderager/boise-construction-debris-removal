@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import { Phone, CheckCircle } from 'lucide-react'
+import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 
 export const metadata: Metadata = {
   title: 'Renovation Waste Removal | Boise Construction Debris Removal',
@@ -16,6 +17,7 @@ export default function RenovationWastePage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Professional waste removal for renovation and update projects throughout the Treasure Valley.</p>
         </div>
       </section>
+      <QuickQuoteBar />
 
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

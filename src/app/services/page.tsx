@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { Phone, Home, Building2, Hammer, Layers } from 'lucide-react'
+import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 
 export const metadata: Metadata = {
   title: 'Construction Debris Removal Services | Boise, Idaho',
@@ -58,6 +59,8 @@ export default function ServicesPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Debris Removal Services</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Complete construction debris removal for residential and commercial projects in Boise.</p>
+
+          <QuickQuoteBar />
         </div>
       </section>
 
