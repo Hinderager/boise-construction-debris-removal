@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://boise-construction-debris-removal.com',
-    siteName: 'Boise Construction Debris Removal',
+    siteName: 'Top Shelf Construction Debris Removal',
     title: 'Construction Debris Removal Boise | Fast Job Site Cleanup',
     description: 'Professional construction debris removal and job site cleanup in Boise and the Treasure Valley. Same-day service available. Licensed and insured.',
     images: [
