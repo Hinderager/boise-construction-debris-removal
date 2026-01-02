@@ -13,9 +13,10 @@ const montserrat = Montserrat({
   display: 'swap',
 })
 
-const openSans = Open_Sans({
+const montserrat = Montserrat({
   subsets: ['latin'],
-  variable: '--font-open-sans',
+  variable: '--font-montserrat',
+  weight: ['400', '600', '700'],
   display: 'swap',
 })
 
@@ -88,7 +89,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`${montserrat.variable} ${openSans.variable}`}>
+    <html lang="en" className={`${montserrat.variable} ${montserrat.variable}`}>
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
