@@ -5,6 +5,7 @@ import './globals.css'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { StructuredData } from '@/components/StructuredData'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 import { QuoteFormProvider } from '@/context/QuoteFormContext'
 
 const oswald = Oswald({
@@ -24,8 +25,8 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-construction-debris-removal.com'),
   title: {
-    default: 'Construction Debris Removal Boise | Job Site Cleanup Idaho',
-    template: '%s | Construction Debris Removal Boise',
+    default: 'Boise Construction Debris Removal | Same-Day Service | Top Shelf',
+    template: '%s | Boise Debris Removal',
   },
   description: 'Professional construction debris removal in Boise, Idaho. Job site cleanup, renovation debris, and recycling services. Same-day service available. Call (208) 943-5231 for a free quote.',
   keywords: [
@@ -138,6 +139,7 @@ export default function RootLayout({
           <Footer />
         </QuoteFormProvider>
         <StructuredData />
+        <BreadcrumbSchema siteName="Top Shelf Construction Debris Removal" siteUrl="https://boise-construction-debris-removal.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
