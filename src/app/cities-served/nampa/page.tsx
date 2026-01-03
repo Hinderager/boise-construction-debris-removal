@@ -69,6 +69,40 @@ export default function NampaPage() {
               <h3 className="text-2xl font-bold text-white mb-4">Need Debris Removal in Nampa?</h3>
               <p className="text-gray-300 mb-6">Call now for fast, professional service.</p>
               <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            {/* Neighborhood Pages */}
+            <div className="mt-12">
+              <h3 className="text-2xl font-bold text-dark-blue mb-6">
+                Nampa Neighborhoods We Serve
+              </h3>
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                
+                <Link
+                  href="/cities-served/nampa/downtown-nampa"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Downtown Nampa</span>
+                </Link>
+                <Link
+                  href="/cities-served/nampa/karcher"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Karcher</span>
+                </Link>
+                <Link
+                  href="/cities-served/nampa/lake-lowell"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Lake Lowell</span>
+                </Link>
+                <Link
+                  href="/cities-served/nampa/midway"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Midway</span>
+                </Link>
+              </div>
+            </div>
+
                 <Phone className="w-5 h-5" />(208) 943-5231
               </a>
             </div>

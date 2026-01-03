@@ -140,8 +140,11 @@ export default function RootLayout({
         </QuoteFormProvider>
         <StructuredData />
         <BreadcrumbSchema siteName="Top Shelf Construction Debris Removal" siteUrl="https://boise-construction-debris-removal.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <link rel="preconnect" href="https://connect.facebook.net" />
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
         <link rel="dns-prefetch" href="https://www.google.com" />
       </body>
