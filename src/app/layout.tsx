@@ -92,10 +92,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${oswald.variable} ${montserrat.variable}`}>
-      <head>
-        <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
-      </head>
       <body className="font-body antialiased">
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-581QKP6ZE5"
