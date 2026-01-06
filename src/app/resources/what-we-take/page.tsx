@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, CheckCircle, X } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -45,6 +46,7 @@ export default function WhatWeTakePage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">We accept most construction and demolition debris. Here's the full list.</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">

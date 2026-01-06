@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import { Phone, CheckCircle } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Drywall Disposal | Boise Construction Debris Removal',
@@ -17,6 +18,7 @@ export default function DrywallDisposalPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Professional proper disposal of drywall and sheetrock waste throughout the Treasure Valley.</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
 
       <section className="py-16 bg-white">

@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Phone, MapPin, CheckCircle } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Construction Debris Removal Meridian ID | Top Shelf',
@@ -40,6 +41,7 @@ export default function MeridianPage() {
           </a>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
 
       <section className="py-16 bg-white">
