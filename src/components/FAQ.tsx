@@ -11,7 +11,7 @@ export const faqs = [
   },
   {
     question: "How much does it cost?",
-    answer: "Most jobs run $150 to $600 depending on volume and weight. We charge based on how much space you take up in the truck. Heavy materials like concrete cost a bit more due to disposal fees. We\'ll give you an exact price on-site before we load anything."
+    answer: "Pricing depends on volume and weight—how much space the load takes in our truck and how heavy it is. Heavy materials like concrete cost a bit more because of disposal fees. We\'ll give you an exact price on-site before we load anything."
   },
   {
     question: "Can you come same day?",

@@ -215,23 +215,23 @@ export default function DumpsterRentalVsDebrisRemovalService() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>10-yard dumpster rental:</strong> $300-450 for a week, including disposal of typical construction debris.
+              <strong>10-yard dumpster rental:</strong> A week's rental with disposal of typical construction debris included.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>20-yard dumpster rental:</strong> $400-550 for a week.
+              <strong>20-yard dumpster rental:</strong> A step up from the 10-yard, for medium remodels and small builds.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>30-yard dumpster rental:</strong> $500-700 for a week.
+              <strong>30-yard dumpster rental:</strong> Larger capacity for full builds, demolition, and bigger remodels.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              <strong>Debris removal service:</strong> $150-600 depending on volume, with labor included.
+              <strong>Debris removal service:</strong> Priced by volume, with labor included—no loading on your end.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Here's the math that matters: if you'd need to load a 20-yard dumpster yourself and it takes you 4 hours, what's your time worth? If your rate is $50/hour, that\'s $200 in labor value. Add that to the dumpster rental and compare to a removal service that handles everything.
+              Here's the math that matters: if you'd need to load a 20-yard dumpster yourself and it takes you several hours, what's your time worth? Add that labor value to the dumpster rental and compare to a removal service that handles everything for you.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -255,7 +255,7 @@ export default function DumpsterRentalVsDebrisRemovalService() {
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Dumpster Rental Extras</h3>
             <p className="text-gray-600 leading-relaxed mb-6">
-              Weight overages can add $50-100 per ton over the included weight. Extended rental fees if you keep it longer than planned. Prohibited items fees if you put something in that wasn't allowed. Delivery charges for difficult access locations.
+              Weight overages can add a per-ton charge over the included weight. Extended rental fees if you keep it longer than planned. Prohibited items fees if you put something in that wasn't allowed. Delivery charges for difficult access locations.
             </p>
 
             <h3 className="text-xl font-bold text-gunmetal mb-4">Removal Service Extras</h3>

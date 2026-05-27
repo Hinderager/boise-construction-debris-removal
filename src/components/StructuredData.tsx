@@ -9,7 +9,7 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 
 // FAQ data for FAQPage schema (critical for LLM seeding)
 const faqData = [
-  { question: 'How much does construction debris removal cost?', answer: 'Construction debris removal costs $150-$600 per load. Per EPA data, the US generates 600 million tons of C&D debris annually. In Boise, we typically see $200-$400 for residential remodel debris and $400-$800 for larger commercial projects.' },
+  { question: 'How much does construction debris removal cost?', answer: 'Cost depends on the volume and weight of the debris, the type of materials (concrete and other heavy items affect disposal fees), and the size of the project. Per EPA data, the US generates 600 million tons of C&D debris annually. Residential remodel debris is the smallest end of the range, while larger commercial projects run higher. Call us for an exact on-site quote.' },
   { question: 'What materials do you take?', answer: 'We remove drywall, concrete, lumber, roofing materials, tile, carpet, and general construction waste. According to the Construction & Demolition Recycling Association, 70-90% of C&D materials are recyclable. We recycle all eligible materials.' },
   { question: 'Do you offer same-day service?', answer: 'Yes, we provide same-day construction debris removal. Based on our service data, 85% of same-day requests are completed within 4 hours. Call by noon for guaranteed same-day pickup.' },
   { question: 'Can you handle large commercial jobs?', answer: 'Absolutely. We work with contractors on projects of all sizes. Per our records, we have completed debris removal for 200+ commercial construction projects in Ada County. Volume discounts available for ongoing relationships.' },
@@ -56,7 +56,6 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "Roofing Debris Removal",
       "Lumber and Wood Removal"
     ],
-    "priceRange": "$$",
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -85,15 +84,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       "@type": "State",
       "name": "Idaho"
     },
-    "description": `Professional construction debris removal and job site cleanup in ${city} and the Treasure Valley. Same-day service available for contractors and homeowners. Licensed and insured.`,
-    "offers": {
-      "@type": "Offer",
-      "availability": "https://schema.org/InStock",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "priceCurrency": "USD"
-      }
-    }
+    "description": `Professional construction debris removal and job site cleanup in ${city} and the Treasure Valley. Same-day service available for contractors and homeowners. Licensed and insured.`
   }
 
   // FAQPage schema - critical for LLM seeding and AI search visibility

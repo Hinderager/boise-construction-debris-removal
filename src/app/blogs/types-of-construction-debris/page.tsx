@@ -215,7 +215,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Value varies:</strong> Copper is most valuable ($2-4/lb). Aluminum brings decent money. Steel and iron are lower value but still worth recycling.
+              <strong>Value varies:</strong> Copper is most valuable per pound. Aluminum brings decent money. Steel and iron are lower value but still worth recycling.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">

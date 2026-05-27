@@ -88,7 +88,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Cost benefit:</strong> Recycling concrete usually costs $5-15 per ton less than landfill disposal. For a driveway demolition generating 10-20 tons, that\'s real money.
+              <strong>Cost benefit:</strong> Recycling concrete usually costs less per ton than landfill disposal. For a driveway demolition generating 10-20 tons, that adds up to real savings.
             </p>
           </div>
         </div>
@@ -107,11 +107,11 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Copper:</strong> The most valuable. Copper pipes, wiring, and tubing from plumbing and electrical work can bring $2-4 per pound depending on current prices.
+              <strong>Copper:</strong> The most valuable. Copper pipes, wiring, and tubing from plumbing and electrical work bring a solid per-pound rate depending on current market prices.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Aluminum:</strong> Gutters, siding, window frames, and HVAC ductwork. Worth about $0.30-0.60 per pound.
+              <strong>Aluminum:</strong> Gutters, siding, window frames, and HVAC ductwork. Solid per-pound value, less than copper but still worthwhile.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
