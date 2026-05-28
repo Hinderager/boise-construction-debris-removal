@@ -6,28 +6,28 @@ const services = [
     title: 'Job Site Cleanup',
     description: 'Construction sites get messy fast. We provide daily, weekly, or project-end cleanup services to keep your site safe and productive. From scrap materials to packaging waste, we haul it all away so your crew can focus on building. Regular cleanup also helps you pass inspections and stay on schedule.',
     image: '/generated/drywall-removal.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Renovation Debris',
     description: 'Remodeling projects generate a lot of waste-old cabinets, flooring, drywall, fixtures, and more. We remove renovation debris from kitchens, bathrooms, basements, and whole-home remodels. No need to pile it up and deal with it later. We come when you need us and get it out of your way.',
     image: '/generated/renovation-cleanup.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Concrete & Masonry',
     description: 'Broken concrete, old pavers, brick, and block are heavy and hard to dispose of. We have the equipment and experience to remove these materials safely and efficiently. Whether it\'s a patio tearout or foundation demo, we\'ll get that concrete out of there so you can move forward.',
     image: '/generated/concrete-debris.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
   {
     title: 'Roofing Debris',
     description: 'Roof replacements create tons of shingles, underlayment, flashing, and nails. We work with roofing contractors to remove old materials quickly and safely. Same-day service available to keep your project moving. We bring the trailer, load it up, and haul it away-simple as that.',
     image: '/generated/lumber-cleanup.webp',
-    link: 'tel:2083611982',
+    link: 'tel:2089435231',
     buttonText: 'Call Now',
   },
 ]
@@ -96,9 +96,9 @@ export function ServicesShowcase() {
         {/* CTA Buttons */}
         <div className="flex flex-row gap-4 justify-center mt-16">
           <Button asChild size="lg" className="bg-ub-yellow hover:bg-ub-yellow/90 text-black font-bold text-lg px-10 py-6 rounded-lg uppercase border-4 border-ub-yellow">
-            <a href="tel:2083611982">
+            <a href="tel:2089435231">
               <span className="md:hidden">Call Now</span>
-              <span className="hidden md:inline">(208) 361-1982</span>
+              <span className="hidden md:inline">(208) 943-5231</span>
             </a>
           </Button>
         </div>

@@ -298,10 +298,10 @@ export default function RecyclingConstructionMaterialsIdaho() {
               We can help you figure out what's recyclable on your project and handle the removal. Call for a free estimate.
             </p>
             <a
-              href="tel:2083611982"
+              href="tel:2089435231"
               className="inline-block bg-dark-blue hover:bg-light-blue text-white font-bold text-lg px-8 py-4 rounded-lg transition-colors"
             >
-              Call (208) 361-1982
+              Call (208) 943-5231
             </a>
           </div>
         </div>
