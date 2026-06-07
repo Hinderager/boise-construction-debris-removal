@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Roofing Debris Star ID | Top Shelf Debris Removal',
+  title: 'Roofing Debris Star ID | Boise Construction Debris Removal',
   description: 'Professional roofing material and shingle removal in Star, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['roofing debris Star', 'debris removal Star', 'construction cleanup Star'],
   alternates: {

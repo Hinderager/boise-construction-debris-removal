@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Construction Debris Removal Nampa ID | Top Shelf',
+  title: 'Construction Debris Removal Nampa ID | Boise Construction Debris Removal',
   description: 'Professional construction debris removal in Nampa, Idaho. Residential and commercial cleanup. Same-day service available. Call (208) 943-5231.',
   keywords: ['debris removal Nampa', 'construction cleanup Nampa', 'demolition debris Nampa'],
   alternates: {

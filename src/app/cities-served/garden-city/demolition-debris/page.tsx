@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Demolition Debris Garden City ID | Top Shelf Debris Removal',
+  title: 'Demolition Debris Garden City ID | Boise Construction Debris Removal',
   description: 'Professional demolition debris and cleanup services in Garden City, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['demolition debris Garden City', 'debris removal Garden City', 'construction cleanup Garden City'],
   alternates: {

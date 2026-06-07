@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Roofing Debris Caldwell ID | Top Shelf Debris Removal',
+  title: 'Roofing Debris Caldwell ID | Boise Construction Debris Removal',
   description: 'Professional roofing material and shingle removal in Caldwell, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['roofing debris Caldwell', 'debris removal Caldwell', 'construction cleanup Caldwell'],
   alternates: {

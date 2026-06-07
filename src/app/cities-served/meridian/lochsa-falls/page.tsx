@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Construction Debris Removal Lochsa Falls Meridian | Top Shelf',
+  title: 'Construction Debris Removal Lochsa Falls Meridian | Boise Construction Debris Removal',
   description: 'Construction Debris Removal services in Lochsa Falls, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['construction debris removal Lochsa Falls', 'construction debris removal Lochsa Falls Meridian', 'Lochsa Falls meridian construction debris removal'],
   alternates: {

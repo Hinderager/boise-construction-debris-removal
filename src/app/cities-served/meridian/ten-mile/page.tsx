@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Construction Debris Removal Ten Mile Area Meridian | Top Shelf',
+  title: 'Construction Debris Removal Ten Mile Area Meridian | Boise Construction Debris Removal',
   description: 'Construction Debris Removal services in Ten Mile Area, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['construction debris removal Ten Mile Area', 'construction debris removal Ten Mile Area Meridian', 'Ten Mile Area meridian construction debris removal'],
   alternates: {

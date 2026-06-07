@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Construction Debris Removal Lake Lowell Nampa | Top Shelf',
+  title: 'Construction Debris Removal Lake Lowell Nampa | Boise Construction Debris Removal',
   description: 'Construction Debris Removal services in Lake Lowell, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['construction debris removal Lake Lowell', 'construction debris removal Lake Lowell Nampa', 'Lake Lowell nampa construction debris removal'],
   alternates: {

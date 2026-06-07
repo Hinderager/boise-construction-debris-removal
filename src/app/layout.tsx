@@ -25,7 +25,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-construction-debris-removal.com'),
   title: {
-    default: 'Boise Construction Debris Removal | Same-Day Service | Top Shelf',
+    default: 'Boise Construction Debris Removal | Same-Day Service',
     template: '%s | Boise Debris Removal',
   },
   description: 'Professional construction debris removal in Boise, Idaho. Job site cleanup, renovation debris, and recycling services. Same-day service available. Call (208) 943-5231 for a free quote.',
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://boise-construction-debris-removal.com',
-    siteName: 'Top Shelf Construction Debris Removal',
+    siteName: 'Boise Construction Debris Removal',
     title: 'Construction Debris Removal Boise | Fast Job Site Cleanup',
     description: 'Professional construction debris removal and job site cleanup in Boise and the Treasure Valley. Same-day service available. Licensed and insured.',
     images: [
@@ -135,7 +135,7 @@ export default function RootLayout({
           <Footer />
         </QuoteFormProvider>
         <StructuredData />
-        <BreadcrumbSchema siteName="Top Shelf Construction Debris Removal" siteUrl="https://boise-construction-debris-removal.com" />
+        <BreadcrumbSchema siteName="Boise Construction Debris Removal" siteUrl="https://boise-construction-debris-removal.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />

@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Construction Debris Removal Downtown Boise Boise | Top Shelf',
+  title: 'Construction Debris Removal Downtown Boise Boise | Boise Construction Debris Removal',
   description: 'Construction Debris Removal services in Downtown Boise, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['construction debris removal Downtown Boise', 'construction debris removal Downtown Boise Boise', 'Downtown Boise boise construction debris removal'],
   alternates: {

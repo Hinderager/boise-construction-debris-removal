@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Commercial Debris Eagle ID | Top Shelf Debris Removal',
+  title: 'Commercial Debris Eagle ID | Boise Construction Debris Removal',
   description: 'Professional commercial construction debris removal in Eagle, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['commercial debris Eagle', 'debris removal Eagle', 'construction cleanup Eagle'],
   alternates: {

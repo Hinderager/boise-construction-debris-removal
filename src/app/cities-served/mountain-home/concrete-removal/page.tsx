@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Concrete Removal Mountain Home ID | Top Shelf Debris Removal',
+  title: 'Concrete Removal Mountain Home ID | Boise Construction Debris Removal',
   description: 'Professional concrete and masonry debris removal in Mountain Home, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['concrete removal Mountain Home', 'debris removal Mountain Home', 'construction cleanup Mountain Home'],
   alternates: {

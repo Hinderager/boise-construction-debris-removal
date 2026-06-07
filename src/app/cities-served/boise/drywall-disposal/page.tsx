@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Drywall Disposal Boise ID | Top Shelf Debris Removal',
+  title: 'Drywall Disposal Boise ID | Boise Construction Debris Removal',
   description: 'Professional drywall and sheetrock debris disposal in Boise, Idaho. Licensed and insured. Call (208) 943-5231 for fast service.',
   keywords: ['drywall disposal Boise', 'debris removal Boise', 'construction cleanup Boise'],
   alternates: {

@@ -23,11 +23,10 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": `Top Shelf Construction Debris Removal - ${city}`,
+    "name": "Boise Construction Debris Removal",
     "description": `Professional construction debris removal in ${city}, Idaho. Job site cleanup, demolition debris, and recycling services. Same-day service available for contractors and homeowners.`,
     "url": "https://boise-construction-debris-removal.com",
     "telephone": "+1-208-943-5231",
-    "email": "info@topshelfpros.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": city,
@@ -78,7 +77,7 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
     "serviceType": "Construction Debris Removal Services",
     "provider": {
       "@type": "LocalBusiness",
-      "name": "Top Shelf Construction Debris Removal"
+      "name": "Boise Construction Debris Removal"
     },
     "areaServed": {
       "@type": "State",
