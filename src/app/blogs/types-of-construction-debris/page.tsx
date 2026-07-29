@@ -49,7 +49,7 @@ export default function TypesOfConstructionDebris() {
               Not all construction debris is created equal. Different materials have different weights, different disposal requirements, and different costs to remove.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              Understanding what you\'re dealing with helps you estimate removal costs, avoid disposal problems, and potentially save money by recycling materials that have value.
+              Understanding what you&apos;re dealing with helps you estimate removal costs, avoid disposal problems, and potentially save money by recycling materials that have value.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Here's a rundown of the most common types of construction debris we see on Boise-area projects and how each is typically handled.
@@ -72,7 +72,7 @@ export default function TypesOfConstructionDebris() {
             </div>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              These are the heavy hitters-literally. Concrete is one of the heaviest construction materials, which affects both how it\'s handled and what it costs to remove.
+              These are the heavy hitters-literally. Concrete is one of the heaviest construction materials, which affects both how it&apos;s handled and what it costs to remove.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -88,7 +88,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Cost impact:</strong> Because of the weight, concrete removal is priced by weight or with specific pricing. Don\'t be surprised when a small pile of concrete costs more than a larger pile of lighter materials.
+              <strong>Cost impact:</strong> Because of the weight, concrete removal is priced by weight or with specific pricing. Don&apos;t be surprised when a small pile of concrete costs more than a larger pile of lighter materials.
             </p>
           </div>
         </div>
@@ -115,7 +115,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Hazard consideration:</strong> Old painted wood may contain lead paint if from pre-1978 structures. This doesn\'t change disposal much in most cases, but be aware of it.
+              <strong>Hazard consideration:</strong> Old painted wood may contain lead paint if from pre-1978 structures. This doesn&apos;t change disposal much in most cases, but be aware of it.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -146,7 +146,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Weight vs. volume:</strong> Drywall is moderately heavy-heavier than wood but lighter than masonry. It\'s also fragile and breaks into pieces that don\'t stack efficiently.
+              <strong>Weight vs. volume:</strong> Drywall is moderately heavy-heavier than wood but lighter than masonry. It&apos;s also fragile and breaks into pieces that don&apos;t stack efficiently.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -219,7 +219,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Separation matters:</strong> Sorted metals bring better prices than mixed loads. It\'s worth separating copper from steel from aluminum if you have significant quantities.
+              <strong>Separation matters:</strong> Sorted metals bring better prices than mixed loads. It&apos;s worth separating copper from steel from aluminum if you have significant quantities.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -273,7 +273,7 @@ export default function TypesOfConstructionDebris() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Some materials can\'t go in regular construction debris loads and require special handling:
+              Some materials can&apos;t go in regular construction debris loads and require special handling:
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -304,7 +304,7 @@ export default function TypesOfConstructionDebris() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Construction debris comes in many forms, and understanding what you have affects how it\'s handled and what it costs to remove.
+              Construction debris comes in many forms, and understanding what you have affects how it&apos;s handled and what it costs to remove.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -312,7 +312,7 @@ export default function TypesOfConstructionDebris() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              When you call for a removal estimate, tell us what materials you\'re dealing with. The more specific you can be, the more accurate our quote will be. And if you\'re not sure what you have-especially in older Boise homes-we can help you figure it out.
+              When you call for a removal estimate, tell us what materials you&apos;re dealing with. The more specific you can be, the more accurate our quote will be. And if you&apos;re not sure what you have-especially in older Boise homes-we can help you figure it out.
             </p>
           </div>
         </div>

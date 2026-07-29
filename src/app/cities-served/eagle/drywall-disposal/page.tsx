@@ -37,7 +37,7 @@ export default function EagleDrywallDisposalPage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
               <p>Top Shelf Debris Removal provides drywall and sheetrock debris disposal throughout Eagle. We handle the heavy lifting and proper disposal so you can focus on your project.</p>
-              <p>Whether it\'s a small residential job or a large commercial project, we've got the equipment and experience to handle it efficiently.</p>
+              <p>Whether it&apos;s a small residential job or a large commercial project, we've got the equipment and experience to handle it efficiently.</p>
             </div>
 
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Why Choose Us in Eagle</h2>

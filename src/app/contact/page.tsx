@@ -14,7 +14,7 @@ export default function ContactPage() {
       <section className="py-16 bg-gradient-to-b from-dark-blue to-[#1a5a9e]">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Contact Us</h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">Ready to schedule debris removal? We\'re here to help.</p>
+          <p className="text-xl text-gray-200 max-w-3xl mx-auto">Ready to schedule debris removal? We&apos;re here to help.</p>
         </div>
       </section>
       <VisibleBreadcrumb />
@@ -50,7 +50,7 @@ export default function ContactPage() {
               </div>
               <div className="bg-dark-blue p-8 rounded-xl text-center">
                 <h3 className="text-2xl font-bold text-white mb-4">Call Now</h3>
-                <p className="text-gray-300 mb-6">Talk to a real person. We\'re here to help.</p>
+                <p className="text-gray-300 mb-6">Talk to a real person. We&apos;re here to help.</p>
                 <a href="tel:2089435231" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-xl hover:bg-yellow-400 transition-colors">
                   <Phone className="w-6 h-6" />(208) 943-5231
                 </a>

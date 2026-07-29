@@ -49,8 +49,8 @@ export default function NampaPage() {
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Debris Removal Services in Nampa</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
-              <p>Top Shelf Debris Removal provides professional construction cleanup throughout Nampa. Whether you\'re a contractor working on a commercial build or a homeowner tackling a remodel, we handle the debris so you can focus on the project.</p>
-              <p>We serve all of Nampa with same-day service when available. Call us and we\'ll give you a straight quote over the phone.</p>
+              <p>Top Shelf Debris Removal provides professional construction cleanup throughout Nampa. Whether you&apos;re a contractor working on a commercial build or a homeowner tackling a remodel, we handle the debris so you can focus on the project.</p>
+              <p>We serve all of Nampa with same-day service when available. Call us and we&apos;ll give you a straight quote over the phone.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Our Nampa Services</h3>

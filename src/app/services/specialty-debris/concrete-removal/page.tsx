@@ -45,7 +45,7 @@ export default function ConcreteRemovalPage() {
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700">Clean up the area when we\'re done</span>
+                <span className="text-gray-700">Clean up the area when we&apos;re done</span>
               </li>
             </ul>
 

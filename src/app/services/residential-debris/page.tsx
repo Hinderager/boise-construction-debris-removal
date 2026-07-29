@@ -26,8 +26,8 @@ export default function ResidentialDebrisPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>Home improvement projects create a lot of debris. Old cabinets, drywall, flooring, trim - it piles up fast. We handle the cleanup so you don\'t have to deal with it.</p>
-              <p>Whether you\'re doing a full remodel or just updating one room, we\'ll haul away the mess when you\'re ready.</p>
+              <p>Home improvement projects create a lot of debris. Old cabinets, drywall, flooring, trim - it piles up fast. We handle the cleanup so you don&apos;t have to deal with it.</p>
+              <p>Whether you&apos;re doing a full remodel or just updating one room, we&apos;ll haul away the mess when you&apos;re ready.</p>
             </div>
 
             <h2 className="text-3xl font-bold text-dark-blue mb-6">Common Residential Projects</h2>

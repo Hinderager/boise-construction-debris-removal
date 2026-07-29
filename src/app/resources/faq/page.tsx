@@ -75,7 +75,7 @@ export default function FAQPage() {
 
             <div className="bg-blue-50 border-l-4 border-dark-blue p-6 mb-12">
               <h3 className="text-lg font-bold text-dark-blue mb-2">Still Have Questions?</h3>
-              <p className="text-gray-600">We\'re happy to answer them. Give us a call and we\'ll walk you through whatever you need to know.</p>
+              <p className="text-gray-600">We&apos;re happy to answer them. Give us a call and we&apos;ll walk you through whatever you need to know.</p>
             </div>
 
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">

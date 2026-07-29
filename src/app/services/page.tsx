@@ -71,7 +71,7 @@ export default function ServicesPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>Whether you\'re a contractor with a commercial build or a homeowner tackling a kitchen remodel, we handle the debris so you can focus on the project. Here's what we do.</p>
+              <p>Whether you&apos;re a contractor with a commercial build or a homeowner tackling a kitchen remodel, we handle the debris so you can focus on the project. Here's what we do.</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">

@@ -14,7 +14,7 @@ export default function CareersPage() {
       <section className="py-16 bg-gradient-to-b from-dark-blue to-[#1a5a9e]">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">Join Our Team</h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto">We\'re looking for reliable, hardworking people to join our growing team.</p>
+          <p className="text-xl text-gray-200 max-w-3xl mx-auto">We&apos;re looking for reliable, hardworking people to join our growing team.</p>
         </div>
       </section>
       <VisibleBreadcrumb />
@@ -22,7 +22,7 @@ export default function CareersPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>Top Shelf Debris Removal is a growing local company serving the Treasure Valley. We\'re always looking for good people who want to work hard and be part of a team that takes pride in what they do.</p>
+              <p>Top Shelf Debris Removal is a growing local company serving the Treasure Valley. We&apos;re always looking for good people who want to work hard and be part of a team that takes pride in what they do.</p>
               <p>This isn't a desk job. You'll be lifting heavy stuff, working outside, and staying busy. But if you like physical work and want to earn good money doing it, this could be a great fit.</p>
             </div>
 
@@ -45,7 +45,7 @@ export default function CareersPage() {
               </div>
             </div>
 
-            <h2 className="text-3xl font-bold text-dark-blue mb-6">What We\'re Looking For</h2>
+            <h2 className="text-3xl font-bold text-dark-blue mb-6">What We&apos;re Looking For</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
               <ul>
                 <li>Reliable - show up on time, every time</li>

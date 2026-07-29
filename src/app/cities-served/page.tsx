@@ -41,7 +41,7 @@ export default function CitiesServedPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>We provide construction debris removal services across the entire Treasure Valley. Whether you\'re in downtown Boise or out in Middleton, we've got you covered.</p>
+              <p>We provide construction debris removal services across the entire Treasure Valley. Whether you&apos;re in downtown Boise or out in Middleton, we've got you covered.</p>
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
@@ -62,7 +62,7 @@ export default function CitiesServedPage() {
             </div>
 
             <div className="bg-blue-50 border-l-4 border-dark-blue p-6">
-              <h3 className="text-lg font-bold text-dark-blue mb-2">Don\'t See Your City?</h3>
+              <h3 className="text-lg font-bold text-dark-blue mb-2">Don&apos;t See Your City?</h3>
               <p className="text-gray-600">We serve many other areas throughout the Treasure Valley. Give us a call to check if we cover your location.</p>
             </div>
           </div>

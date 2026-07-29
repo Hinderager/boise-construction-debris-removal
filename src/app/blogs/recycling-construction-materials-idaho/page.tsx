@@ -76,7 +76,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>What happens to it:</strong> Concrete gets crushed into aggregate that\'s used for road base, fill, and new concrete production. Brick and block follow similar paths.
+              <strong>What happens to it:</strong> Concrete gets crushed into aggregate that&apos;s used for road base, fill, and new concrete production. Brick and block follow similar paths.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -154,7 +154,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Reality check:</strong> Most construction wood ends up mixed with other debris and goes to landfill. Recycling wood requires separation on-site, which many projects don\'t do.
+              <strong>Reality check:</strong> Most construction wood ends up mixed with other debris and goes to landfill. Recycling wood requires separation on-site, which many projects don&apos;t do.
             </p>
           </div>
         </div>
@@ -203,7 +203,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <h2 className="text-2xl md:text-3xl font-bold text-gunmetal mb-6">
-              What Can\'t Be Recycled
+              What Can&apos;t Be Recycled
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -258,7 +258,7 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              <strong>Consider whether it\'s worth it</strong> for your specific project. Small projects may not generate enough recyclable material to justify the effort. Larger projects often see real cost savings.
+              <strong>Consider whether it&apos;s worth it</strong> for your specific project. Small projects may not generate enough recyclable material to justify the effort. Larger projects often see real cost savings.
             </p>
           </div>
         </div>
@@ -277,11 +277,11 @@ export default function RecyclingConstructionMaterialsIdaho() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              The biggest barrier is usually logistics-separating materials on-site and getting them to the right facilities. If you\'re working with a debris removal service, ask about their recycling practices. Some sort materials and recycle what they can. Others take everything to the landfill.
+              The biggest barrier is usually logistics-separating materials on-site and getting them to the right facilities. If you&apos;re working with a debris removal service, ask about their recycling practices. Some sort materials and recycle what they can. Others take everything to the landfill.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              We try to divert recyclable materials from the landfill whenever it makes sense. It\'s better for the environment and often costs less than pure landfill disposal.
+              We try to divert recyclable materials from the landfill whenever it makes sense. It&apos;s better for the environment and often costs less than pure landfill disposal.
             </p>
           </div>
         </div>

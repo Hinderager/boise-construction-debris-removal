@@ -22,8 +22,8 @@ export default function LicensesInsurancePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none text-gray-600 mb-12">
-              <p>When you hire Top Shelf Debris Removal, you\'re working with a legitimate, professional company that\'s fully licensed and insured. That matters more than you might think.</p>
-              <p>It means we follow proper disposal regulations. It means you\'re protected if something goes wrong. And it means we take this business seriously.</p>
+              <p>When you hire Top Shelf Debris Removal, you&apos;re working with a legitimate, professional company that&apos;s fully licensed and insured. That matters more than you might think.</p>
+              <p>It means we follow proper disposal regulations. It means you&apos;re protected if something goes wrong. And it means we take this business seriously.</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">

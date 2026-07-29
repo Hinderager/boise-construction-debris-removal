@@ -46,10 +46,10 @@ export default function KeepingJobSitesClean() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              Walk onto some construction sites and you can barely find a clear path through the debris. Walk onto others and you wonder how anything's getting built-it\'s too clean.
+              Walk onto some construction sites and you can barely find a clear path through the debris. Walk onto others and you wonder how anything's getting built-it&apos;s too clean.
             </p>
             <p className="text-gray-600 leading-relaxed mb-6">
-              The messy site isn't a sign of hard work. It\'s usually a sign of poor management, safety risks, and hidden costs that eat into project margins.
+              The messy site isn't a sign of hard work. It&apos;s usually a sign of poor management, safety risks, and hidden costs that eat into project margins.
             </p>
             <p className="text-gray-600 leading-relaxed">
               Here's why job site cleanliness matters more than most Boise contractors realize-and how to get it right without slowing down production.
@@ -76,11 +76,11 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Loose lumber, scattered nails, piles of drywall scraps-these aren't just eyesores. They're hazards. A worker steps on a board with a nail sticking up, and suddenly you\'re dealing with a workers' comp claim, lost productivity, and potentially an OSHA inspection.
+              Loose lumber, scattered nails, piles of drywall scraps-these aren't just eyesores. They're hazards. A worker steps on a board with a nail sticking up, and suddenly you&apos;re dealing with a workers' comp claim, lost productivity, and potentially an OSHA inspection.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Fire risk is another factor. Accumulated wood scraps, paper, and packaging create fuel for fires. In dry Treasure Valley summers, this isn't theoretical-it\'s a real concern.
+              Fire risk is another factor. Accumulated wood scraps, paper, and packaging create fuel for fires. In dry Treasure Valley summers, this isn't theoretical-it&apos;s a real concern.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -99,7 +99,7 @@ export default function KeepingJobSitesClean() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Here's something that doesn\'t show up in safety statistics: messy sites are slow sites.
+              Here's something that doesn&apos;t show up in safety statistics: messy sites are slow sites.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
@@ -111,7 +111,7 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>Quality suffers.</strong> Working in cluttered conditions leads to mistakes. It\'s harder to do precise work when you\'re tripping over stuff and can\'t find what you need.
+              <strong>Quality suffers.</strong> Working in cluttered conditions leads to mistakes. It&apos;s harder to do precise work when you&apos;re tripping over stuff and can&apos;t find what you need.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -130,11 +130,11 @@ export default function KeepingJobSitesClean() {
             </h2>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              Your clients aren't construction professionals. They don\'t know what's normal on a job site. What they see is mess-or cleanliness.
+              Your clients aren't construction professionals. They don&apos;t know what's normal on a job site. What they see is mess-or cleanliness.
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
-              A homeowner visiting their renovation project forms impressions quickly. A messy site makes them wonder: if they can\'t keep the site organized, what about the work I can\'t see? Are they cutting corners inside the walls too?
+              A homeowner visiting their renovation project forms impressions quickly. A messy site makes them wonder: if they can&apos;t keep the site organized, what about the work I can&apos;t see? Are they cutting corners inside the walls too?
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-6">
@@ -157,21 +157,21 @@ export default function KeepingJobSitesClean() {
             </h2>
 
             <p className="text-blue-100 leading-relaxed mb-6">
-              Keeping a site clean doesn\'t mean stopping work to sweep every hour. Here's what actually works:
+              Keeping a site clean doesn&apos;t mean stopping work to sweep every hour. Here's what actually works:
             </p>
 
             <div className="space-y-3 mb-6">
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>End-of-day cleanup.</strong> Build 15-30 minutes of cleanup into every day's schedule. It\'s not extra time-it\'s productive time that makes the next day start faster</span>
+                <span className="text-blue-100"><strong>End-of-day cleanup.</strong> Build 15-30 minutes of cleanup into every day's schedule. It&apos;s not extra time-it&apos;s productive time that makes the next day start faster</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Designated debris areas.</strong> Have a specific spot where debris goes during the day. Everyone knows where to toss scraps, and it\'s easy to load out</span>
+                <span className="text-blue-100"><strong>Designated debris areas.</strong> Have a specific spot where debris goes during the day. Everyone knows where to toss scraps, and it&apos;s easy to load out</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span className="text-blue-100"><strong>Regular removal schedule.</strong> Don\'t let debris accumulate for weeks. Schedule removal when the pile reaches a certain size or at regular intervals</span>
+                <span className="text-blue-100"><strong>Regular removal schedule.</strong> Don&apos;t let debris accumulate for weeks. Schedule removal when the pile reaches a certain size or at regular intervals</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
@@ -211,7 +211,7 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed mb-4">
-              <strong>When debris impedes work.</strong> If the pile is in the way or creating safety issues, it\'s time. Don\'t wait for a scheduled removal date if the situation calls for action now.
+              <strong>When debris impedes work.</strong> If the pile is in the way or creating safety issues, it&apos;s time. Don&apos;t wait for a scheduled removal date if the situation calls for action now.
             </p>
 
             <p className="text-gray-600 leading-relaxed">
@@ -238,7 +238,7 @@ export default function KeepingJobSitesClean() {
             </p>
 
             <p className="text-gray-600 leading-relaxed">
-              If keeping sites clean is a struggle, it might be time to look at your debris removal process. Sometimes the issue isn't discipline-it\'s logistics. Having a reliable removal partner on call makes the whole thing easier.
+              If keeping sites clean is a struggle, it might be time to look at your debris removal process. Sometimes the issue isn't discipline-it&apos;s logistics. Having a reliable removal partner on call makes the whole thing easier.
             </p>
           </div>
         </div>
