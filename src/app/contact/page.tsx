@@ -36,8 +36,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-bold text-dark-blue">Hours</h3>
                     <p className="text-gray-600">Same-Day Service Available</p>
-                    <p className="text-gray-600">Mon-Sat: 7am - 6pm</p>
-                    <p className="text-gray-600">Sun: By appointment</p>
+                    <p className="text-gray-600">Monday - Sunday: 8:00 AM - 9:00 PM</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

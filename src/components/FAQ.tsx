@@ -3,6 +3,7 @@
 import { useState } from "react"
 import { ChevronDown } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { FaqSchema } from '@/components/FaqSchema'
 
 export const faqs = [
   {
@@ -44,6 +45,7 @@ export function FAQ() {
 
   return (
     <section className="py-20 bg-white">
+      <FaqSchema faqs={faqs} />
       <div className="container mx-auto px-4">
         <h2 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold text-center mb-12 uppercase" style={{textShadow: "2px 2px 3px rgba(0,0,0,0.3), 1px 1px 2px rgba(0,0,0,0.2)"}}>
           <span className="text-dark-blue">Frequently Asked Questions</span>
